@@ -1,0 +1,1 @@
+insert into Alien(101,'prasad');
